@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an accessible landing page for an agency, and building my developer portfolio website
 - 🌱 I’m currently learning React JS and GatsbyJS
-- ⌨️ I blog about tech, semi-regularly over on blog.iridium.codes
+- ⌨️ I [blog](https://blog.iridium.codes/) semi-regularly about tech
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
 
