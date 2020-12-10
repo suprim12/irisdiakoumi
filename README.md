@@ -1,3 +1,6 @@
+[![Website](https://img.shields.io/website?label=iridium.codes&style=flat&url=https%3A%2F%2Firidium.codes)](https://iridium.codes)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iridiumCodes?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow)
+
 ### Hi there, I'm Iris! Aka iridiumCodes 👋
 
 - 🔭 I’m currently working on an accessible landing page for an agency, and building my developer portfolio website
@@ -31,7 +34,7 @@
 [more blog posts...](https://blog.iridium.codes)
 
 ### Wakatime Week Stats
-[![iridiumCodes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iridiumCodes)](https://github.com/anuraghazra/github-readme-stats)
+[![iridiumCodes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iridiumCodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Connect with me:
 
 [<img align="left" alt="iridium.codes" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="left" alt="iridiumCodes | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="codeSTACKr | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
