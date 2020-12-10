@@ -1,11 +1,11 @@
-### Hi there, I'm Iris! Aka iridiumCodes 👋
+### Hi there, I'm Iris! aka iridiumCodes 👋
 
-- 🔭 I’m currently working on an accessible landing page for an agency, and building my developer portfolio website
+- 👩🏻‍💻 I’m currently working on an accessible landing page for an agency, and building my developer portfolio website
 - 🌱 I’m currently learning React and GatsbyJS
 - ⌨️ I [blog](https://blog.iridium.codes/) semi-regularly about various developer topics. I try to share useful resources that I find around the internet. Next, I plan to post project updates.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: She / Her
+- 🎯 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
+- 😄 Pronouns: She / Her
 
 ### Languages and Tools:
 <p>
@@ -30,13 +30,16 @@
 <!-- BLOG-POST-LIST:END -->
 [more blog posts...](https://blog.iridium.codes)
 
-### Wakatime Week Stats
+### Wakatime Week Stats:
 [![iridiumCodes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iridiumCodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
 
-[<img align="left" alt="iridium.codes" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="left" alt="iridiumCodes | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="codeSTACKr | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="iridium.codes" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="iridiumCodes | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="iridium.codes | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
 
