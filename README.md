@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on an accessible landing page for an agency, and building my developer portfolio website
 - 🌱 I’m currently learning React and GatsbyJS
 - ⌨️ I [blog](https://blog.iridium.codes/) semi-regularly about tech
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
 
@@ -17,6 +18,16 @@
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" alt="Github">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=flat" alt="Hashnode">
 </p>
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [JavaScript Functions: Declare or Express?](https://blog.iridium.codes/javascript-functions-declare-or-express)
+- [Is Blogging like Cooking?](https://blog.iridium.codes/is-blogging-like-cooking)
+- [Tech shot: Feature Toggles](https://blog.iridium.codes/tech-shot-feature-toggles)
+- [A Small Curated List of Cheatsheets](https://blog.iridium.codes/a-curated-list-of-cheatsheets)
+- [A Small Curated List of Checklists](https://blog.iridium.codes/a-small-curated-list-of-checklists)
+<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
 
