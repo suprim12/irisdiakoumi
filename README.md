@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=flat" alt="Hashnode">
 </p>
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Functions: Declare or Express?](https://blog.iridium.codes/javascript-functions-declare-or-express)
@@ -29,6 +29,9 @@
 - [A Small Curated List of Checklists](https://blog.iridium.codes/a-small-curated-list-of-checklists)
 <!-- BLOG-POST-LIST:END -->
 [more blog posts...](https://blog.iridium.codes)
+
+### Wakatime Week Stats
+[![iridiumcodes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iridiumCodes)]
 
 ### Connect with me:
 
