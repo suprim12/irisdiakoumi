@@ -28,7 +28,8 @@
 - [A Small Curated List of Cheatsheets](https://blog.iridium.codes/a-curated-list-of-cheatsheets)
 - [A Small Curated List of Checklists](https://blog.iridium.codes/a-small-curated-list-of-checklists)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://blog.iridium.codes)
+[more blog posts...](https://blog.iridium.codes)
+
 ### Connect with me:
 
 [<img align="left" alt="iridium.codes" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="left" alt="iridiumCodes | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="codeSTACKr | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
