@@ -6,8 +6,6 @@
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
 
-<br />
-
 ### Languages and Tools:
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
@@ -19,8 +17,6 @@
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" alt="Github">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=flat" alt="Hashnode">
 </p>
-
-<br />
 
 ### Connect with me:
 
