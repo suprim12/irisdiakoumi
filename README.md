@@ -41,6 +41,10 @@
 [<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="iridium.codes | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<link href=”https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"rel=”stylesheet”>]
+[<i class=”far fa-arrow-alt-circle-right”>]
+                                                                                       
+                                                                                       
 <br>
 
 [website]: https://iridium.codes
