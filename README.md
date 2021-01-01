@@ -44,11 +44,6 @@
 <br>
 
 
-<script src="https://use.fontawesome.com/ba7e83ff7a.js"></script>
-
-<i class="fa fa-flag"></i>
-
-
 [website]: https://iridium.codes
 [twitter]: https://twitter.com/iridiumCodes
 [instagram]: https://www.instagram.com/iridium.codes/
