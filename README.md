@@ -1,7 +1,7 @@
 ### Hi there, I'm Iris! aka iridiumCodes 👋
 
-- 👩🏻‍💻 I’m currently working on an accessible landing page for an agency, and building my developer portfolio website
-- 🌱 I’m currently learning React and GatsbyJS
+- 👩🏻‍💻 I’m currently working on a React app that lets you upload an image, detects colors using a ML API and lets you create and save a palette using the colors. Also, I'm wireframing my developer portfolio website and will be moving into development phase soon!
+- 🌱 I’m currently practising React and learning NextJS
 - ⌨️ I [blog](https://blog.iridium.codes/) semi-regularly about various developer topics. I try to share useful resources that I find around the internet. Next, I plan to post project updates.
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
