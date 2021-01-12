@@ -1,6 +1,6 @@
 ### Hi there, I'm Iris! aka iridiumCodes 👋
 
-- 👩🏻‍💻 I’m currently working on a React app that lets you upload an image, detects colors using a ML API and lets you create and save a palette using the colors. Also, I'm wireframing my developer portfolio website and will be moving into development phase soon!
+- 👩🏻‍💻 I’m currently working on a React app that lets you upload an image, and detects colors using a ML API. 1st iteration will let users pick the colors they like and save them in a color palette. Also, I'm wireframing my developer portfolio website and will be moving into development phase soon!
 - 🌱 I’m currently practising React and learning NextJS
 - ⌨️ I [blog](https://blog.iridium.codes/) semi-regularly about various developer topics. I try to share useful resources that I find around the internet. Next, I plan to post project updates.
 - 🎯 2021 Goals: Contribute more to Open Source projects
