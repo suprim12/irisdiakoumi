@@ -44,7 +44,7 @@
 <br>
 
 
-[website]: https://iridium.codes
+[website]: https://blog.iridium.codes
 [twitter]: https://twitter.com/iridiumCodes
 [instagram]: https://www.instagram.com/iridium.codes/
 [linkedin]: https://www.linkedin.com/in/irisdiakoumi/
