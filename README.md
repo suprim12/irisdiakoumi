@@ -37,7 +37,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="iridium.codes" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="iridium.codes | Blog" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />][website]
 [<img align="left" alt="iridiumCodes | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="iridium.codes | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -47,5 +47,5 @@
 
 [website]: https://documenting.tech
 [twitter]: https://twitter.com/irisdiakoumi
-[instagram]: https://www.instagram.com/irisdiakoumi/
 [linkedin]: https://www.linkedin.com/in/irisdiakoumi/
+[instagram]: https://www.instagram.com/irisdiakoumi/
