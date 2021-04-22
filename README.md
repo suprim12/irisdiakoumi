@@ -1,9 +1,10 @@
 ### Hi there, I'm Iris! aka iridiumCodes 👋
 
-- 👩🏻‍💻 I’m currently working on a React app that lets you upload an image, and detects colors using a ML API. 1st iteration will let users pick the colors they like and save them in a color palette. Also, I'm wireframing my developer portfolio website and will be moving into development phase soon!
-- 🌱 I’m currently practising React and learning NextJS
-- ⌨️ I [blog](https://blog.iridium.codes/) semi-regularly about various developer topics. I try to share useful resources that I find around the internet. Next, I plan to post project updates.
-- 🎯 2021 Goals: Contribute more to Open Source projects
+- 👩🏻‍💻 After attending the 3rd Hashnode Technical Writing Bootcamp (April 5-16, 2021) I got really inspired to look into the field of Technical Communication(Technical & UX Writing). I have since completed the Bootcamp successfully, and have created the #100DaysOfTechWriting challenge to keep me motivated to continue this journey. Hopefully, I will motivate some more people on the way. 🤞
+- 🌱 I’m currently practising Python, and have some cool project ideas to implement and write about! 
+- ⌨️ I [blog](https://documenting.tech/) semi-regularly about various developer topics. I try to share useful resources that I find around the internet. Next, I plan to post project updates.
+- 📖 Currently reading and keeping copious notes on [The Product is Docs](https://www.goodreads.com/book/show/37563319-the-product-is-docs)
+- 🎯 2021 Goals: Contribute more to Open Source projects, especially in the Documentation front.
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
 - 😄 Pronouns: She / Her
 
@@ -44,7 +45,7 @@
 <br>
 
 
-[website]: https://blog.iridium.codes
-[twitter]: https://twitter.com/iridiumCodes
-[instagram]: https://www.instagram.com/iridium.codes/
+[website]: https://documenting.tech
+[twitter]: https://twitter.com/irisdiakoumi
+[instagram]: https://www.instagram.com/irisdiakoumi/
 [linkedin]: https://www.linkedin.com/in/irisdiakoumi/
