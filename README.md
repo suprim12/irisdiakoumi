@@ -1,6 +1,6 @@
 ### Hi there, I'm Iris! aka iridiumCodes 👋
 
-- 👩🏻‍💻 After attending the 3rd Hashnode Technical Writing Bootcamp (April 5-16, 2021) I got really inspired to look into the field of Technical Communication(Technical & UX Writing). I have since completed the Bootcamp successfully, and have created the #100DaysOfTechWriting challenge to keep me motivated to continue this journey. Hopefully, I will motivate some more people on the way. 🤞
+- 👩🏻‍💻 After attending the 3rd Hashnode Technical Writing Bootcamp (April 5-16, 2021) I got really inspired to look into the field of Technical Communication(Technical & UX Writing). I have since completed the Bootcamp successfully, and have created the [#100DaysOfTechWriting](https://github.com/irisdiakoumi/100-days-of-tech-writing) challenge to keep me motivated to continue this journey. Hopefully, I will motivate some more people on the way. 🤞
 - 🌱 I’m currently practising Python, and have some cool project ideas to implement and write about! 
 - ⌨️ I [blog](https://documenting.tech/) semi-regularly about various developer topics. I try to share useful resources that I find around the internet. Next, I plan to post project updates.
 - 📖 Currently reading and keeping copious notes on [The Product is Docs by Christopher Gales & the Splunk Documentation Team](https://www.goodreads.com/book/show/37563319-the-product-is-docs)
