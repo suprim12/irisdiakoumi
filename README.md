@@ -3,8 +3,8 @@
 - 👩🏻‍💻 After attending the 3rd Hashnode Technical Writing Bootcamp (April 5-16, 2021) I got really inspired to look into the field of Technical Communication(Technical & UX Writing). I have since completed the Bootcamp successfully, and have created the #100DaysOfTechWriting challenge to keep me motivated to continue this journey. Hopefully, I will motivate some more people on the way. 🤞
 - 🌱 I’m currently practising Python, and have some cool project ideas to implement and write about! 
 - ⌨️ I [blog](https://documenting.tech/) semi-regularly about various developer topics. I try to share useful resources that I find around the internet. Next, I plan to post project updates.
-- 📖 Currently reading and keeping copious notes on [The Product is Docs](https://www.goodreads.com/book/show/37563319-the-product-is-docs)
-- 🎯 2021 Goals: Contribute more to Open Source projects, especially in the Documentation front.
+- 📖 Currently reading and keeping copious notes on [The Product is Docs by Christopher Gales & the Splunk Documentation Team](https://www.goodreads.com/book/show/37563319-the-product-is-docs)
+- 🎯 2021 Goals: Contribute more to Open Source projects, especially in docs issues.
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
 - 😄 Pronouns: She / Her
 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" alt="React">
-<img src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat" alt="Gatsby">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=python&logoColor=white&style=flat" alt="Python">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" alt="Github">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=flat" alt="Hashnode">
