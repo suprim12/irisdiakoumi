@@ -1,10 +1,10 @@
 ### Hi there, I'm Iris! aka iridiumCodes 👋
 
-- 👩🏻‍💻 After attending the 3rd Hashnode Technical Writing Bootcamp (April 5-16, 2021) I got really inspired to look into the field of Technical Communication(Technical & UX Writing). I have since completed the Bootcamp successfully, and have created the [#100DaysOfTechWriting](https://github.com/irisdiakoumi/100-days-of-tech-writing) challenge to keep me motivated to continue this journey. Hopefully, I will motivate some more people on the way. 🤞
-- 🌱 I’m currently practising Python, and have some cool project ideas to implement and write about! 
+- 👩🏻‍💻 I'm working on advancing my skills on JavaScript, React and adjacent web development technologies. I also enjoy doing some Technical Writing and Technical Translation on the side. 
+- 🌱 I’m currently finishing up some side project, building my web development portfolio, and I am open to interesting Front-End Development projects and opportunities! 
 - ⌨️ I [blog](https://documenting.tech/) semi-regularly about various developer topics. I try to share useful resources that I find around the internet. Next, I plan to post project updates.
 - 📖 Currently reading and keeping copious notes on [The Product is Docs by Christopher Gales & the Splunk Documentation Team](https://www.goodreads.com/book/show/37563319-the-product-is-docs)
-- 🎯 2021 Goals: Contribute more to Open Source projects, especially in docs issues.
+- 🎯 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
 - 😄 Pronouns: She / Her
 
