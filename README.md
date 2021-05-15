@@ -4,7 +4,7 @@
 - 🌱 I’m currently finishing up some side projects, and joined in the #100DaysOfTechWriting (which I created for accountability purposes)
 - ⌨️ I [blog](https://documenting.tech/) semi-regularly about various developer topics. I also plan to focus on other topics of Technical Writing, UX Writing and Tech Comm. 
 - 📖 Currently reading and keeping copious notes on [The Product is Docs by Christopher Gales & the Splunk Documentation Team](https://www.goodreads.com/book/show/37563319-the-product-is-docs).
-- 🎯 2021 Goals: Contribute more to Open Source projects. Most recently contributed the Greek translation to the ![Hedy](hedycode.com) docs.
+- 🎯 2021 Goals: Contribute more to Open Source projects. Most recently contributed the Greek translation to the ![Hedy](https://hedycode.com) docs.
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
 - 😄 Pronouns: She / Her
 
