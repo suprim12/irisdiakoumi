@@ -23,13 +23,13 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Functions: Declare or Express?](https://blog.iridium.codes/javascript-functions-declare-or-express)
-- [Is Blogging like Cooking?](https://blog.iridium.codes/is-blogging-like-cooking)
-- [Tech shot: Feature Toggles](https://blog.iridium.codes/tech-shot-feature-toggles)
-- [A Small Curated List of Cheatsheets](https://blog.iridium.codes/a-curated-list-of-cheatsheets)
-- [A Small Curated List of Checklists](https://blog.iridium.codes/a-small-curated-list-of-checklists)
+- [JavaScript Functions: Declare or Express?](https:/documenting.tech/javascript-functions-declare-or-express)
+- [Is Blogging like Cooking?](https://documenting.tech/is-blogging-like-cooking)
+- [Tech shot: Feature Toggles](https://documenting.tech/tech-shot-feature-toggles)
+- [A Small Curated List of Cheatsheets](https://documenting.tech/a-curated-list-of-cheatsheets)
+- [A Small Curated List of Checklists](https://documenting.tech/a-small-curated-list-of-checklists)
 <!-- BLOG-POST-LIST:END -->
-[more blog posts...](https://blog.iridium.codes)
+[more blog posts...](https://documenting.tech)
 
 ### Wakatime Week Stats:
 [![iridiumCodes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iridiumCodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
