@@ -23,9 +23,9 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Functions: Declare or Express?](https:/documenting.tech/javascript-functions-declare-or-express)
+- [JavaScript Functions: Declare or Express?](https://documenting.tech/javascript-functions)
 - [Is Blogging like Cooking?](https://documenting.tech/is-blogging-like-cooking)
-- [Tech shot: Feature Toggles](https://documenting.tech/tech-shot-feature-toggles)
+- [Tech shot: Feature Toggles](https://documenting.tech/feature-toggles-101)
 - [A Small Curated List of Cheatsheets](https://documenting.tech/a-curated-list-of-cheatsheets)
 - [A Small Curated List of Checklists](https://documenting.tech/a-small-curated-list-of-checklists)
 <!-- BLOG-POST-LIST:END -->
@@ -37,10 +37,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="iridium.codes | Blog" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />][website]
-[<img align="left" alt="iridiumCodes | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="documenting.tech | Blog" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />][website]
+[<img align="left" alt="irisdiakoumi | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="iridium.codes | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="documenting.tech | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
                                                                                                                                                                      
 <br>
 
